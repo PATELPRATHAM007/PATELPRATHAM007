@@ -147,16 +147,16 @@ professional_profile:
     <tr>
       <td width="50%" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PATELPRATHAM007&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=9ece6a" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=PATELPRATHAM007&show_icons=true&theme=default&hide_border=true&title_color=007acc&icon_color=007acc&text_color=24292e&bg_color=ffffff" />
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PATELPRATHAM007&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=9ece6a" width="100%" alt="GitHub Stats" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PATELPRATHAM007&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=9ece6a" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=PATELPRATHAM007&show_icons=true&theme=default&hide_border=true&title_color=007acc&icon_color=007acc&text_color=24292e&bg_color=ffffff" />
+          <img src="https://github-readme-stats.vercel.app/api?username=PATELPRATHAM007&show_icons=true&theme=tokyonight&hide_border=true&title_color=00d2ff&icon_color=00d2ff&text_color=9ece6a" width="100%" alt="GitHub Stats" />
         </picture>
       </td>
       <td width="50%" align="center">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PATELPRATHAM007&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PATELPRATHAM007&layout=compact&theme=default&hide_border=true&title_color=007acc&bg_color=ffffff" />
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PATELPRATHAM007&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff" width="100%" alt="Top Languages" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PATELPRATHAM007&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff" />
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PATELPRATHAM007&layout=compact&theme=default&hide_border=true&title_color=007acc&bg_color=ffffff" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PATELPRATHAM007&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff" width="100%" alt="Top Languages" />
         </picture>
       </td>
     </tr>
